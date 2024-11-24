@@ -1,4 +1,4 @@
-# SNU-CSE-Coursework
+# SNU-CSE-ProgrammingAssignments
 Repository of programming assignments for Computer Science and Engineering (CSE) major at Seoul National University (SNU)  
 
 The required courses for the CSE program at SNU are as follows:  
