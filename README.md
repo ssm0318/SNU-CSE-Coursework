@@ -1,18 +1,18 @@
 # SNU-CSE-Coursework
 Repository of programming assignments for Computer Science and Engineering (CSE) major at Seoul National University (SNU)  
 
-The required courses for Computer Science and Engineering (CSE) Major @Seoul National University (SNU) are as follows:  
-1. Discrete Mathematics  
-2. Computer Architecture  
-3. Computer Programming  
-4. Data Structures  
-5. Electrical and Electronic Circuits  
-6. Logic Design  
-7. Algorithms  
+The required courses for the CSE program at SNU are as follows:  
+1. Logic Design
+2. Computer Programming  
+3. Data Structures  
+4. Algorithms  
+5. Principles and Practices of SW Development  
+6. Capstone 1/2    
+7. Computer Architecture  
 8. Hardware System Design  
-9. Principles and Practices of SW Development  
-10. Systems Programming  
-11. Capstone 1/2    
+9. Systems Programming  
+10. Discrete Mathematics  
+11. Electrical and Electronic Circuits  
 (+ foundational electives)    
 
 Major Electives taken:  

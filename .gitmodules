@@ -1,0 +1,30 @@
+[submodule "2020_Capstone2-FCN"]
+	path = 2020_Capstone2-FCN
+	url = https://github.com/ssm0318/2020_Capstone2-FCN.git
+[submodule "2019_ComputerProgramming"]
+	path = 2019_ComputerProgramming
+	url = https://github.com/ssm0318/2019_ComputerProgramming.git
+[submodule "2018_MobileComputing"]
+	path = 2018_MobileComputing
+	url = https://github.com/ssm0318/2018_MobileComputing.git
+[submodule "2021_HardwareSystemDesign"]
+	path = 2021_HardwareSystemDesign
+	url = https://github.com/ssm0318/2021_HardwareSystemDesign.git
+[submodule "2018_LogicDesign"]
+	path = 2018_LogicDesign
+	url = https://github.com/ssm0318/2018_LogicDesign.git
+[submodule "2020_SoftwareDevelopment"]
+	path = 2020_SoftwareDevelopment
+	url = https://github.com/ssm0318/2020_SoftwareDevelopment.git
+[submodule "2021_SystemsProgramming"]
+	path = 2021_SystemsProgramming
+	url = https://github.com/ssm0318/2021_SystemsProgramming.git
+[submodule "2020_Algorithm"]
+	path = 2020_Algorithm
+	url = https://github.com/ssm0318/2020_Algorithm.git
+[submodule "2021_ComputerArchitecture"]
+	path = 2021_ComputerArchitecture
+	url = https://github.com/ssm0318/2021_ComputerArchitecture.git
+[submodule "2019_DataStructures"]
+	path = 2019_DataStructures
+	url = https://github.com/ssm0318/2019_DataStructures.git
